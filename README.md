@@ -2,7 +2,7 @@
 
 A Java Swing application that simulates a bus terminal managing a fleet of buses and tempos along a real route: **Chawkbazar → Bahaddarhat → Raozan → Rangunia → Chondrogona → Kaptai**.
 
-Built for **CSE 1116: Object Oriented Programming Laboratory**, Premier University, Chattogram.
+Built for **CSE 1116: Object Oriented Programming Laboratory**
 
 ## Features
 
