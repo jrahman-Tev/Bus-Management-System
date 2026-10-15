@@ -60,4 +60,5 @@ The console will first print a few demonstration tests (fare calculation, polymo
 
 ## Author
 
-[Your Name] — CSE 1116, Premier University, Chattogram
+Md.Monirur Rahman
+
